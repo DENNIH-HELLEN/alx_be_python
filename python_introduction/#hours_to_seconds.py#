@@ -1,5 +1,0 @@
-#!/usr/bin/python
-hours = 2
-seconds = hours * 3600
-
-print("{0:d} hour(spyth) is {1:d} seconds.".format(hours, seconds))
