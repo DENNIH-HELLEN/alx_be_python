@@ -4,7 +4,7 @@ size = int(input("Enter the size of the pattern: "))
 
 iteration = 0
 
-while(iteration < size):
+while iteration < size:
     for number in range(0, size):
         print("*", end="")
 
