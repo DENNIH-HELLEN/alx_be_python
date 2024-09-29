@@ -18,6 +18,8 @@ def perform_operation(num1, num2, operation):
         case "divide":
             if num2 == 0:
                 ans = 0.0
+            elif num1 == 0:
+                ans = 0.0
             else:
                 ans = num1 / num2
             
