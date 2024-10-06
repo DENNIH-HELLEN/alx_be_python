@@ -10,4 +10,4 @@ def safe_divide (numerator, denominator):
         return "Error: Please enter numeric values only."
 
     else:
-        return ans
+        return "The result of the division is {ans}"
